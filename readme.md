@@ -32,8 +32,8 @@
 
 - [x] Build interval timer logic
 - [x] Live heart rate & distance
-- [ ] Save workouts to HealthKit
-- [ ] Add workout summaries
+- [x] Save workouts to HealthKit
+- [x] Add workout summaries
 - [ ] Build iPhone app to display workout history
 - [ ] Push notifications for interval transitions
 - [ ] Apple Watch complications support
