@@ -1,0 +1,966 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		12EB086C2D96BE9B00E5853E /* 4x4 Pro Max Watch App.app in Embed Watch Content */ = {isa = PBXBuildFile; fileRef = 12EB086B2D96BE9B00E5853E /* 4x4 Pro Max Watch App.app */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		12EB08562D96BE9A00E5853E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 12EB083D2D96BE9900E5853E /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 12EB08442D96BE9900E5853E;
+			remoteInfo = "4x4 Pro Max";
+		};
+		12EB08602D96BE9B00E5853E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 12EB083D2D96BE9900E5853E /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 12EB08442D96BE9900E5853E;
+			remoteInfo = "4x4 Pro Max";
+		};
+		12EB086D2D96BE9B00E5853E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 12EB083D2D96BE9900E5853E /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 12EB086A2D96BE9B00E5853E;
+			remoteInfo = "4x4 Pro Max Watch App";
+		};
+		12EB087E2D96BE9C00E5853E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 12EB083D2D96BE9900E5853E /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 12EB086A2D96BE9B00E5853E;
+			remoteInfo = "4x4 Pro Max Watch App";
+		};
+		12EB08882D96BE9C00E5853E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 12EB083D2D96BE9900E5853E /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 12EB086A2D96BE9B00E5853E;
+			remoteInfo = "4x4 Pro Max Watch App";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		12EB08942D96BE9C00E5853E /* Embed Watch Content */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "$(CONTENTS_FOLDER_PATH)/Watch";
+			dstSubfolderSpec = 16;
+			files = (
+				12EB086C2D96BE9B00E5853E /* 4x4 Pro Max Watch App.app in Embed Watch Content */,
+			);
+			name = "Embed Watch Content";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		12EB08452D96BE9900E5853E /* 4x4 Pro Max.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "4x4 Pro Max.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		12EB08552D96BE9A00E5853E /* 4x4 Pro MaxTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "4x4 Pro MaxTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		12EB085F2D96BE9B00E5853E /* 4x4 Pro MaxUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "4x4 Pro MaxUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		12EB086B2D96BE9B00E5853E /* 4x4 Pro Max Watch App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "4x4 Pro Max Watch App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		12EB087D2D96BE9C00E5853E /* 4x4 Pro Max Watch AppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "4x4 Pro Max Watch AppTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		12EB08872D96BE9C00E5853E /* 4x4 Pro Max Watch AppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "4x4 Pro Max Watch AppUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		12EB08472D96BE9900E5853E /* 4x4 Pro Max */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "4x4 Pro Max";
+			sourceTree = "<group>";
+		};
+		12EB08582D96BE9A00E5853E /* 4x4 Pro MaxTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "4x4 Pro MaxTests";
+			sourceTree = "<group>";
+		};
+		12EB08622D96BE9B00E5853E /* 4x4 Pro MaxUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "4x4 Pro MaxUITests";
+			sourceTree = "<group>";
+		};
+		12EB086F2D96BE9B00E5853E /* 4x4 Pro Max Watch App */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "4x4 Pro Max Watch App";
+			sourceTree = "<group>";
+		};
+		12EB08802D96BE9C00E5853E /* 4x4 Pro Max Watch AppTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "4x4 Pro Max Watch AppTests";
+			sourceTree = "<group>";
+		};
+		12EB088A2D96BE9C00E5853E /* 4x4 Pro Max Watch AppUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "4x4 Pro Max Watch AppUITests";
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		12EB08422D96BE9900E5853E /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		12EB08522D96BE9A00E5853E /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		12EB085C2D96BE9B00E5853E /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		12EB08682D96BE9B00E5853E /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		12EB087A2D96BE9C00E5853E /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		12EB08842D96BE9C00E5853E /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		12EB083C2D96BE9900E5853E = {
+			isa = PBXGroup;
+			children = (
+				12EB08472D96BE9900E5853E /* 4x4 Pro Max */,
+				12EB08582D96BE9A00E5853E /* 4x4 Pro MaxTests */,
+				12EB08622D96BE9B00E5853E /* 4x4 Pro MaxUITests */,
+				12EB086F2D96BE9B00E5853E /* 4x4 Pro Max Watch App */,
+				12EB08802D96BE9C00E5853E /* 4x4 Pro Max Watch AppTests */,
+				12EB088A2D96BE9C00E5853E /* 4x4 Pro Max Watch AppUITests */,
+				12EB08462D96BE9900E5853E /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		12EB08462D96BE9900E5853E /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				12EB08452D96BE9900E5853E /* 4x4 Pro Max.app */,
+				12EB08552D96BE9A00E5853E /* 4x4 Pro MaxTests.xctest */,
+				12EB085F2D96BE9B00E5853E /* 4x4 Pro MaxUITests.xctest */,
+				12EB086B2D96BE9B00E5853E /* 4x4 Pro Max Watch App.app */,
+				12EB087D2D96BE9C00E5853E /* 4x4 Pro Max Watch AppTests.xctest */,
+				12EB08872D96BE9C00E5853E /* 4x4 Pro Max Watch AppUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		12EB08442D96BE9900E5853E /* 4x4 Pro Max */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 12EB08952D96BE9C00E5853E /* Build configuration list for PBXNativeTarget "4x4 Pro Max" */;
+			buildPhases = (
+				12EB08412D96BE9900E5853E /* Sources */,
+				12EB08422D96BE9900E5853E /* Frameworks */,
+				12EB08432D96BE9900E5853E /* Resources */,
+				12EB08942D96BE9C00E5853E /* Embed Watch Content */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				12EB086E2D96BE9B00E5853E /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				12EB08472D96BE9900E5853E /* 4x4 Pro Max */,
+			);
+			name = "4x4 Pro Max";
+			packageProductDependencies = (
+			);
+			productName = "4x4 Pro Max";
+			productReference = 12EB08452D96BE9900E5853E /* 4x4 Pro Max.app */;
+			productType = "com.apple.product-type.application";
+		};
+		12EB08542D96BE9A00E5853E /* 4x4 Pro MaxTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 12EB08982D96BE9C00E5853E /* Build configuration list for PBXNativeTarget "4x4 Pro MaxTests" */;
+			buildPhases = (
+				12EB08512D96BE9A00E5853E /* Sources */,
+				12EB08522D96BE9A00E5853E /* Frameworks */,
+				12EB08532D96BE9A00E5853E /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				12EB08572D96BE9A00E5853E /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				12EB08582D96BE9A00E5853E /* 4x4 Pro MaxTests */,
+			);
+			name = "4x4 Pro MaxTests";
+			packageProductDependencies = (
+			);
+			productName = "4x4 Pro MaxTests";
+			productReference = 12EB08552D96BE9A00E5853E /* 4x4 Pro MaxTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		12EB085E2D96BE9B00E5853E /* 4x4 Pro MaxUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 12EB089B2D96BE9C00E5853E /* Build configuration list for PBXNativeTarget "4x4 Pro MaxUITests" */;
+			buildPhases = (
+				12EB085B2D96BE9B00E5853E /* Sources */,
+				12EB085C2D96BE9B00E5853E /* Frameworks */,
+				12EB085D2D96BE9B00E5853E /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				12EB08612D96BE9B00E5853E /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				12EB08622D96BE9B00E5853E /* 4x4 Pro MaxUITests */,
+			);
+			name = "4x4 Pro MaxUITests";
+			packageProductDependencies = (
+			);
+			productName = "4x4 Pro MaxUITests";
+			productReference = 12EB085F2D96BE9B00E5853E /* 4x4 Pro MaxUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+		12EB086A2D96BE9B00E5853E /* 4x4 Pro Max Watch App */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 12EB08912D96BE9C00E5853E /* Build configuration list for PBXNativeTarget "4x4 Pro Max Watch App" */;
+			buildPhases = (
+				12EB08672D96BE9B00E5853E /* Sources */,
+				12EB08682D96BE9B00E5853E /* Frameworks */,
+				12EB08692D96BE9B00E5853E /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				12EB086F2D96BE9B00E5853E /* 4x4 Pro Max Watch App */,
+			);
+			name = "4x4 Pro Max Watch App";
+			packageProductDependencies = (
+			);
+			productName = "4x4 Pro Max Watch App";
+			productReference = 12EB086B2D96BE9B00E5853E /* 4x4 Pro Max Watch App.app */;
+			productType = "com.apple.product-type.application";
+		};
+		12EB087C2D96BE9C00E5853E /* 4x4 Pro Max Watch AppTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 12EB089E2D96BE9C00E5853E /* Build configuration list for PBXNativeTarget "4x4 Pro Max Watch AppTests" */;
+			buildPhases = (
+				12EB08792D96BE9C00E5853E /* Sources */,
+				12EB087A2D96BE9C00E5853E /* Frameworks */,
+				12EB087B2D96BE9C00E5853E /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				12EB087F2D96BE9C00E5853E /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				12EB08802D96BE9C00E5853E /* 4x4 Pro Max Watch AppTests */,
+			);
+			name = "4x4 Pro Max Watch AppTests";
+			packageProductDependencies = (
+			);
+			productName = "4x4 Pro Max Watch AppTests";
+			productReference = 12EB087D2D96BE9C00E5853E /* 4x4 Pro Max Watch AppTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		12EB08862D96BE9C00E5853E /* 4x4 Pro Max Watch AppUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 12EB08A12D96BE9C00E5853E /* Build configuration list for PBXNativeTarget "4x4 Pro Max Watch AppUITests" */;
+			buildPhases = (
+				12EB08832D96BE9C00E5853E /* Sources */,
+				12EB08842D96BE9C00E5853E /* Frameworks */,
+				12EB08852D96BE9C00E5853E /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				12EB08892D96BE9C00E5853E /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				12EB088A2D96BE9C00E5853E /* 4x4 Pro Max Watch AppUITests */,
+			);
+			name = "4x4 Pro Max Watch AppUITests";
+			packageProductDependencies = (
+			);
+			productName = "4x4 Pro Max Watch AppUITests";
+			productReference = 12EB08872D96BE9C00E5853E /* 4x4 Pro Max Watch AppUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		12EB083D2D96BE9900E5853E /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1620;
+				LastUpgradeCheck = 1620;
+				TargetAttributes = {
+					12EB08442D96BE9900E5853E = {
+						CreatedOnToolsVersion = 16.2;
+					};
+					12EB08542D96BE9A00E5853E = {
+						CreatedOnToolsVersion = 16.2;
+						TestTargetID = 12EB08442D96BE9900E5853E;
+					};
+					12EB085E2D96BE9B00E5853E = {
+						CreatedOnToolsVersion = 16.2;
+						TestTargetID = 12EB08442D96BE9900E5853E;
+					};
+					12EB086A2D96BE9B00E5853E = {
+						CreatedOnToolsVersion = 16.2;
+					};
+					12EB087C2D96BE9C00E5853E = {
+						CreatedOnToolsVersion = 16.2;
+						TestTargetID = 12EB086A2D96BE9B00E5853E;
+					};
+					12EB08862D96BE9C00E5853E = {
+						CreatedOnToolsVersion = 16.2;
+						TestTargetID = 12EB086A2D96BE9B00E5853E;
+					};
+				};
+			};
+			buildConfigurationList = 12EB08402D96BE9900E5853E /* Build configuration list for PBXProject "4x4 Pro Max" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 12EB083C2D96BE9900E5853E;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = 12EB08462D96BE9900E5853E /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				12EB08442D96BE9900E5853E /* 4x4 Pro Max */,
+				12EB08542D96BE9A00E5853E /* 4x4 Pro MaxTests */,
+				12EB085E2D96BE9B00E5853E /* 4x4 Pro MaxUITests */,
+				12EB086A2D96BE9B00E5853E /* 4x4 Pro Max Watch App */,
+				12EB087C2D96BE9C00E5853E /* 4x4 Pro Max Watch AppTests */,
+				12EB08862D96BE9C00E5853E /* 4x4 Pro Max Watch AppUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		12EB08432D96BE9900E5853E /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		12EB08532D96BE9A00E5853E /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		12EB085D2D96BE9B00E5853E /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		12EB08692D96BE9B00E5853E /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		12EB087B2D96BE9C00E5853E /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		12EB08852D96BE9C00E5853E /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		12EB08412D96BE9900E5853E /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		12EB08512D96BE9A00E5853E /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		12EB085B2D96BE9B00E5853E /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		12EB08672D96BE9B00E5853E /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		12EB08792D96BE9C00E5853E /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		12EB08832D96BE9C00E5853E /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		12EB08572D96BE9A00E5853E /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 12EB08442D96BE9900E5853E /* 4x4 Pro Max */;
+			targetProxy = 12EB08562D96BE9A00E5853E /* PBXContainerItemProxy */;
+		};
+		12EB08612D96BE9B00E5853E /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 12EB08442D96BE9900E5853E /* 4x4 Pro Max */;
+			targetProxy = 12EB08602D96BE9B00E5853E /* PBXContainerItemProxy */;
+		};
+		12EB086E2D96BE9B00E5853E /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 12EB086A2D96BE9B00E5853E /* 4x4 Pro Max Watch App */;
+			targetProxy = 12EB086D2D96BE9B00E5853E /* PBXContainerItemProxy */;
+		};
+		12EB087F2D96BE9C00E5853E /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 12EB086A2D96BE9B00E5853E /* 4x4 Pro Max Watch App */;
+			targetProxy = 12EB087E2D96BE9C00E5853E /* PBXContainerItemProxy */;
+		};
+		12EB08892D96BE9C00E5853E /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 12EB086A2D96BE9B00E5853E /* 4x4 Pro Max Watch App */;
+			targetProxy = 12EB08882D96BE9C00E5853E /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		12EB088F2D96BE9C00E5853E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		12EB08902D96BE9C00E5853E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SWIFT_COMPILATION_MODE = wholemodule;
+			};
+			name = Release;
+		};
+		12EB08922D96BE9C00E5853E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"4x4 Pro Max Watch App/Preview Content\"";
+				DEVELOPMENT_TEAM = UGVVQFYYWS;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = "4x4 Pro Max";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				INFOPLIST_KEY_WKCompanionAppBundleIdentifier = "com.MiToCreative.-x4-Pro-Max";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.MiToCreative.-x4-Pro-Max.watchkitapp";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = watchos;
+				SKIP_INSTALL = YES;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 4;
+				WATCHOS_DEPLOYMENT_TARGET = 11.2;
+			};
+			name = Debug;
+		};
+		12EB08932D96BE9C00E5853E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"4x4 Pro Max Watch App/Preview Content\"";
+				DEVELOPMENT_TEAM = UGVVQFYYWS;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = "4x4 Pro Max";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				INFOPLIST_KEY_WKCompanionAppBundleIdentifier = "com.MiToCreative.-x4-Pro-Max";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.MiToCreative.-x4-Pro-Max.watchkitapp";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = watchos;
+				SKIP_INSTALL = YES;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 4;
+				VALIDATE_PRODUCT = YES;
+				WATCHOS_DEPLOYMENT_TARGET = 11.2;
+			};
+			name = Release;
+		};
+		12EB08962D96BE9C00E5853E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"4x4 Pro Max/Preview Content\"";
+				DEVELOPMENT_TEAM = UGVVQFYYWS;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = "4x4 Pro Max";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.MiToCreative.-x4-Pro-Max";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		12EB08972D96BE9C00E5853E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"4x4 Pro Max/Preview Content\"";
+				DEVELOPMENT_TEAM = UGVVQFYYWS;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = "4x4 Pro Max";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.MiToCreative.-x4-Pro-Max";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		12EB08992D96BE9C00E5853E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = UGVVQFYYWS;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.MiToCreative.-x4-Pro-MaxTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/4x4 Pro Max.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/4x4 Pro Max";
+			};
+			name = Debug;
+		};
+		12EB089A2D96BE9C00E5853E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = UGVVQFYYWS;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.MiToCreative.-x4-Pro-MaxTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/4x4 Pro Max.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/4x4 Pro Max";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		12EB089C2D96BE9C00E5853E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = UGVVQFYYWS;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.MiToCreative.-x4-Pro-MaxUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "4x4 Pro Max";
+			};
+			name = Debug;
+		};
+		12EB089D2D96BE9C00E5853E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = UGVVQFYYWS;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.MiToCreative.-x4-Pro-MaxUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "4x4 Pro Max";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		12EB089F2D96BE9C00E5853E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = UGVVQFYYWS;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.MiToCreative.-x4-Pro-Max-Watch-AppTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = watchos;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 4;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/4x4 Pro Max Watch App.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/4x4 Pro Max Watch App";
+				WATCHOS_DEPLOYMENT_TARGET = 11.2;
+			};
+			name = Debug;
+		};
+		12EB08A02D96BE9C00E5853E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = UGVVQFYYWS;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.MiToCreative.-x4-Pro-Max-Watch-AppTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = watchos;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 4;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/4x4 Pro Max Watch App.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/4x4 Pro Max Watch App";
+				VALIDATE_PRODUCT = YES;
+				WATCHOS_DEPLOYMENT_TARGET = 11.2;
+			};
+			name = Release;
+		};
+		12EB08A22D96BE9C00E5853E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = UGVVQFYYWS;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.MiToCreative.-x4-Pro-Max-Watch-AppUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = watchos;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 4;
+				TEST_TARGET_NAME = "4x4 Pro Max Watch App";
+				WATCHOS_DEPLOYMENT_TARGET = 11.2;
+			};
+			name = Debug;
+		};
+		12EB08A32D96BE9C00E5853E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = UGVVQFYYWS;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.MiToCreative.-x4-Pro-Max-Watch-AppUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = watchos;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 4;
+				TEST_TARGET_NAME = "4x4 Pro Max Watch App";
+				VALIDATE_PRODUCT = YES;
+				WATCHOS_DEPLOYMENT_TARGET = 11.2;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		12EB08402D96BE9900E5853E /* Build configuration list for PBXProject "4x4 Pro Max" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				12EB088F2D96BE9C00E5853E /* Debug */,
+				12EB08902D96BE9C00E5853E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		12EB08912D96BE9C00E5853E /* Build configuration list for PBXNativeTarget "4x4 Pro Max Watch App" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				12EB08922D96BE9C00E5853E /* Debug */,
+				12EB08932D96BE9C00E5853E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		12EB08952D96BE9C00E5853E /* Build configuration list for PBXNativeTarget "4x4 Pro Max" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				12EB08962D96BE9C00E5853E /* Debug */,
+				12EB08972D96BE9C00E5853E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		12EB08982D96BE9C00E5853E /* Build configuration list for PBXNativeTarget "4x4 Pro MaxTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				12EB08992D96BE9C00E5853E /* Debug */,
+				12EB089A2D96BE9C00E5853E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		12EB089B2D96BE9C00E5853E /* Build configuration list for PBXNativeTarget "4x4 Pro MaxUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				12EB089C2D96BE9C00E5853E /* Debug */,
+				12EB089D2D96BE9C00E5853E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		12EB089E2D96BE9C00E5853E /* Build configuration list for PBXNativeTarget "4x4 Pro Max Watch AppTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				12EB089F2D96BE9C00E5853E /* Debug */,
+				12EB08A02D96BE9C00E5853E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		12EB08A12D96BE9C00E5853E /* Build configuration list for PBXNativeTarget "4x4 Pro Max Watch AppUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				12EB08A22D96BE9C00E5853E /* Debug */,
+				12EB08A32D96BE9C00E5853E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 12EB083D2D96BE9900E5853E /* Project object */;
+}
